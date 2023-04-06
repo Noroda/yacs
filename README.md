@@ -1,7 +1,7 @@
 # Yet Another Crappy Scanner (YACS)
 YACS is my poor attempt on using minequery with masscan
 
-If you ever want to use this thing then build it
+If you ever want to use this thing then install masscan and build the repo
 
 ## How do I build YACS?
 ```
